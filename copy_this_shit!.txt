@@ -1,0 +1,14 @@
+VV ABOUT COMMAND VV
+.auto .about={init}
+{embed:
+    {title:Welcome to Echo Shitty Script!}
+    {type:rich}
+    {author|name:awesomemc1}
+    {author|icon:https://cdn.discordapp.com/avatars/252269709150519306/aed813a10df634c685e1802cc0fc89f6.png} /* This can be used to display a little picture next to the author name */
+    {author|url:} 
+    {color:#cc0000}
+    {thumb|url:}
+    {desc:Hello There! I am a random bot created by awesomehd1 (aweosmemc1) V1 Already released! https://github.com/awesomehd1/Echo_bot_script/tree/v1}
+    {footer|icon:} 
+    {footer|text:}
+}
